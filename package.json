@@ -1,0 +1,19 @@
+{
+  "name": "ticket-tracker",
+  "version": "1.0.0",
+  "description": "Track tickets and progress on apps in development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlitfin123/ticket-tracker.git"
+  },
+  "author": "Mark Litfin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlitfin123/ticket-tracker/issues"
+  },
+  "homepage": "https://github.com/mlitfin123/ticket-tracker#readme"
+}
